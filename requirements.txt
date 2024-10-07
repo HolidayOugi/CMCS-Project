@@ -1,0 +1,10 @@
+Mesa==3.0.0a5
+seaborn==0.13.2
+numpy==2.1.1
+pandas==2.2.3
+matplotlib==3.9.2
+folium==0.17.0
+panel==1.5.2
+streamlit==1.39.0
+streamlit_folium==0.23.0
+networkx==3.3
