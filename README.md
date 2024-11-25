@@ -1,4 +1,4 @@
-A [Mesa](https://github.com/projectmesa/mesa/)-Driven agent-based module for simulating the spreading of an illness between cities in an Italian province 
+A [Mesa](https://github.com/projectmesa/mesa/)-Driven agent-based model for simulating the spreading of an illness between cities in an Italian province 
 
 ### Requirements:
 
